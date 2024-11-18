@@ -1,0 +1,20 @@
+/* Profile.css */
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    margin-bottom: 20px;  /* Add space between image and text */
+  }
+  
+  .profile-info {
+    margin-top: 20px;  /* Add margin to the top of the text */
+  }
+  
+  .profile-info div {
+    margin-bottom: 10px;  /* Add space between each info section */
+  }
+  
+  .profile-description {
+    margin-bottom: 10px;  /* Space for description text */
+  }
+  
